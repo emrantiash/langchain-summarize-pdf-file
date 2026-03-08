@@ -1,0 +1,17 @@
+langchain==0.2.10
+langchain-community==0.2.10
+langchain-core
+langchain-openai==0.1.17
+langchain-groq==0.1.6
+pypdf==4.3.1
+tiktoken
+aiofiles
+fastapi
+uvicorn
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
+python-dotenv==1.0.1
+langchain_huggingface
+-e .

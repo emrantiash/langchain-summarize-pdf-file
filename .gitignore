@@ -1,0 +1,16 @@
+# Python environments
+venv/
+env/
+pdf-summery/
+lib/
+site-packages/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Environment variables
+.env
